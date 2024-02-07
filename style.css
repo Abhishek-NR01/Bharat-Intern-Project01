@@ -1,0 +1,65 @@
+.head{
+    color:white;
+    display: inline-flex;
+    margin-top: 25px;
+    margin-left: 990px;
+    gap:20px;
+}
+body{
+  background-image: url('./portfolio_bg_img.jpg');
+  margin: 0px;
+  padding: 0px;
+}
+
+#head{
+  margin-left: 15px;
+}
+#heading{
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+}
+
+#paragraph{
+    color: white;
+}
+#new{
+    text-align : center;
+    margin-top : 50px;
+  }
+ 
+
+ .my_pic{
+    border-radius: 5%;
+    border: 2px solid white ;
+    width: 25%;
+ }
+
+  #heading{
+    color: white;
+  }
+  #head{
+    color:white;
+  }
+
+  a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    opacity: 0.8;
+    background-color: transparent;
+  }
+  
+  a:active {
+    opacity: 0.5;
+    background-color: transparent;
+    text-decoration: underline;
+  }

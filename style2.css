@@ -1,0 +1,121 @@
+
+.super-head{
+  background-color: blueviolet;
+  
+}
+
+.super-head > .head{
+    display: inline-flex;
+    margin-top: 25px;
+    margin-left: 990px;
+    gap:20px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.contact{
+  margin-top: 80px;
+}
+.contact h2 {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif ;
+
+}
+
+.par{
+  font-family:Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif ;
+}
+  .super-head>.heading{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    width: 50%;
+    /* height: auto; */
+    font-size: 30px;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif ;;
+    margin: 0px;
+    padding: 0px;
+    padding-bottom: 10px;
+    
+  }
+  h2{
+    margin-left: 300px;
+  }
+  .about-h2{
+    margin-left: 0px;
+  }
+
+  h2 img{
+    height: 150px;
+    margin-left: 200px;
+  }
+  p{
+    display: flex;
+    margin-left: 455px;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif ;
+  }
+  .para{
+    display: flex;
+    margin-left: 225px;
+    font-size: 25px;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif ;;
+    font-weight: bold;
+
+  }
+
+  .para_top{
+    padding-top: 80px;
+  }
+  img{
+    margin-top: 30px;
+    margin-bottom: 55px;
+    margin-left: 425px;
+    height: 400px;
+  }
+  .college_pic{
+    margin-top: 0px;
+    margin-bottom: 55px;
+    margin-left: 425px;
+    height: 400px;
+  }
+  
+  li{
+    margin-top: 35px;
+    margin-left: 350px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif ;
+  }
+  video{
+    margin-bottom: 100px;
+    height: 500px;
+  }
+  #projects{
+    text-align: center;
+  }
+
+  a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    opacity: 0.8;
+    background-color: transparent;
+  }
+  
+  a:active {
+    opacity: 0.5;
+    background-color: transparent;
+    text-decoration: underline;
+  }
